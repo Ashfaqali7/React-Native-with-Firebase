@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49772503256",
+    "project_id": "rnapp-625fb",
+    "storage_bucket": "rnapp-625fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49772503256:android:1635be4179817b3a57b7ad",
+        "android_client_info": {
+          "package_name": "com.fbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49772503256-ml7a59tip1m56se4r3p29sns8ngddcdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFZPH5qWVTC3_BX-PTeLm1lQErtEpzkWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49772503256-ml7a59tip1m56se4r3p29sns8ngddcdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
