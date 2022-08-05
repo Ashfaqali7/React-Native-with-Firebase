@@ -23,4 +23,10 @@
         </intent-filter>
       </activity>
     </application>
+    <application>
+   <!-- You will only need to add this meta-data tag, but make sure it's a child of application -->
+   <meta-data
+     android:name="com.google.android.geo.API_KEY"
+     android:value="AIzaSyD_tZLKuee51UiwKoq_Hpg8HlOoFeP6L_U"/>
+</application>
 </manifest>
