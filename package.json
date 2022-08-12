@@ -16,7 +16,8 @@
     "react": "18.0.0",
     "react-native": "0.69.3",
     "react-native-image-picker": "^4.8.4",
-    "react-native-maps": "^1.1.0"
+    "react-native-maps": "^1.1.0",
+    "react-native-vision-camera": "^2.14.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
